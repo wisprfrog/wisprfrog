@@ -40,6 +40,7 @@ I’m currently starting to explore backend development, building foundational k
 
 * Git
 * VS Code
+* JetBrains (CLion, IntelliJ IDEA)
 
 ---
 
